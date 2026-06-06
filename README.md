@@ -7,9 +7,8 @@ Android Developer
 I am a 7th semester student in the Physics Study Program (Geophysics Specialization) at the State University of Surabaya. I am a graduate of Bangkit Academy 2023 Batch 2 Program with Android Developer learning path. As a Bangkit graduate I love android programming from just using Kotlin programming language to using Jetpack Compose as UI Toolkit. My experience in android application programming includes the development of various functional and user-friendly applications, with a focus on innovative solutions that can help people
 
 *   🌍  I'm based in Indonesia
-*   🖥️  See my portfolio at [My Lab Portfolio](http://adagempa.cloud/)
-*   ✉️  You can contact me at [tjhaidarbajoe@gmail.com](mailto:tjhaidarbajoe@gmail.com)
-*   🚀  I'm currently working on [Dinas Komunikasi dan Informatika Kabupaten Madiun (Intern)](http://diskominfo.madiunkab.go.id/)
+*   🖥️  See my portfolio at [My Lab Portfolio](https://chaidararia.my.id/dev)
+*   ✉️  You can contact me at [hello@chaidararia.my.id](mailto:hello@chaidararia.my.id)
 *   🧠  I'm learning Android, Kotlin, Jetpack Compose, Devops, Backend with Javascript
 *   🤝  I'm open to collaborating on Android Dev### Skills 
 
